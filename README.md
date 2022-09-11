@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/rjbabul/rjbabul/blob/main/Wave.gif" height="55px" width="55px">, I'm <b style="color:blue;">Babul Akter</b></h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Programmer | Student | Learner |Web Developer
 
-?></h3>
+</h3>
 
 - 🔭 I’m currently Student in **CSE**
 
