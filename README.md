@@ -9,7 +9,7 @@ Programmer | Student | Learner |Web Developer
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 🌱 I’m  **Competitive Programmer**
 
 - 💬 Ask me about **Anything**
 
