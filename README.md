@@ -29,19 +29,20 @@ Programmer | Student | Learner |Web Developer
 
 <br />
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Technical Skill
 
-![Cpp](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cpp)&nbsp;
+![cpp](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cpp)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 ![Algorithm](https://img.shields.io/badge/-Algorithm-05122A?style=flat&logo=algorithm&logoColor=563D7C)\
 ![Datastructure](https://img.shields.io/badge/-Datastructure-05122A?style=flat&logo=Datastructure)&nbsp;
+![Problem Solving](https://img.shields.io/badge/-Problem-Solving-05122A?style=flat&logo=Problem Solving)&nbsp;
  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+ 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
