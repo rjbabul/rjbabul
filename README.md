@@ -37,7 +37,7 @@ Programmer | Student | Learner |Web Developer
 
 ![Algorithm](https://img.shields.io/badge/-Algorithm-05122A?style=flat&logo=algorithm&logoColor=563D7C)\
 ![Datastructure](https://img.shields.io/badge/-Datastructure-05122A?style=flat&logo=Datastructure)&nbsp;
-![Problem Solving](https://img.shields.io/badge/-Problem-Solving-05122A?style=flat&logo=Problem Solving)&nbsp;
+![Problem Solving](https://img.shields.io/badge/-Problem-Solving-05122A?style=flat&logo=Problem-Solving)&nbsp;
  
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
