@@ -13,7 +13,7 @@ Programmer | Student | Learner |Web Developer
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **rjbabul420@gmail.com**
+- 📫 How to reach me **babul.170126@s.pust.ac.bd**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
